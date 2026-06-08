@@ -1,4 +1,4 @@
-# AI Job Finder
+# AI Job Finder-by Anish Wani
 
 AI Job Finder is an intelligent career discovery platform designed to help users find relevant job opportunities, explore career paths, and make informed professional decisions through AI-powered recommendations.
 
